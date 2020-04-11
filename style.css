@@ -1,0 +1,22 @@
+h2{
+    color:#ff8c00;
+    border: solid;
+}
+
+.monospace{
+    border: solid;
+    padding-left:100px ;
+    position: relative;
+}
+a:link{
+    color: #00ffff;
+    border:solid
+}
+.aboutusspace p{
+    color: #ff8c00;
+    position: absolute;
+}
+.speech:hover img{
+    opacity:0.80
+}
+
